@@ -1,5 +1,5 @@
 THIS IS A LIST OF RAT TOOLS THAT LOOK REAL BUT AREN'T 
-I will try to update evryday :)
+I will try to update everyday :)
 
 
 #1:https://github.com/jakOuis/XWorm triage link:https://tria.ge/240522-c1nayahg2t/static1
